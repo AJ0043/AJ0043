@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sdf.webp" width="100%" alt="Anvesh Jain Banner"/>
+  <img src="ss.jpeg" width="100%" alt="Anvesh Jain Banner"/>
 </p>
 
 <br>
