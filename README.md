@@ -288,6 +288,12 @@ style="border:5px solid #A855F7;border-radius:50%;padding:10px;"
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-00C853?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://my-portfolio-ochre-pi-46.vercel.app/Anvesh_Jain_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 <br>
 
 <p align="center">
