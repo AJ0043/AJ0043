@@ -308,7 +308,7 @@ style="border:5px solid #A855F7;border-radius:50%;padding:10px;"
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://my-portfolio-ochre-pi-46.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
